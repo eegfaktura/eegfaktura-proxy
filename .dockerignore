@@ -1,0 +1,3 @@
+ssl/eegfaktura-proxy.conf
+ssl/eegfaktura-proxy.csr
+ssl/generate_new_cert.sh
